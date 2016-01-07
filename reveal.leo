@@ -43,12 +43,12 @@
 <v t="01.20151015153657.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151029131715.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151104201000.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="leo.20151203204701.1"><vh>@edit 2015cphww12.md</vh></v>
-<v t="leo.20160104200213.1"><vh>@edit 2015cphww13.md</vh></v>
-<v t="123.20160107143424.1"><vh>@edit 2015cphww14.md</vh></v>
-<v t="leo.20160104200245.1"><vh>@edit 2015cphww15.md</vh></v>
-<v t="leo.20160104200312.1"><vh>@edit 2015cphww16.md</vh></v>
-<v t="123.20160107143941.1"><vh>@edit 2015cphww17.md</vh></v>
+<v t="leo.20151203204701.1"><vh>@edit w12_cp.md</vh></v>
+<v t="leo.20160104200213.1"><vh>@edit 40323154_cp_w13.md</vh></v>
+<v t="123.20160107143424.1"><vh>@edit 40323154_cp_w14.md</vh></v>
+<v t="leo.20160104200245.1"><vh>@edit 40323154_cp_w15.md</vh></v>
+<v t="leo.20160104200312.1"><vh>@edit 40323154_cp_w16.md</vh></v>
+<v t="123.20160107143941.1"><vh>@edit 40323154_cp_w17.md</vh></v>
 <v t="01.20151001150342.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -400,7 +400,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104200626.1"><vh>@clean cadp_w12_simplest.html</vh>
+<v t="leo.20160104200626.1"><vh>@clean 40323154_cp_w12_p.html</vh>
 <v t="leo.20160104200626.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104200626.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104200626.4" a="E"><vh>body 標註</vh>
@@ -424,7 +424,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104200559.1"><vh>@clean cadp_w13_simplest.html</vh>
+<v t="leo.20160104200559.1"><vh>@clean 40323154_cp_w13_p.html</vh>
 <v t="leo.20160104200559.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104200559.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104200559.4" a="E"><vh>body 標註</vh>
@@ -445,7 +445,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160107143548.1"><vh>@clean cadp_w14_simplest.html</vh>
+<v t="123.20160107143548.1"><vh>@clean 40323154_cp_w14_p.html</vh>
 <v t="123.20160107143548.2"><vh>檔案說明</vh></v>
 <v t="123.20160107143548.3" a="E"><vh>html 標註</vh>
 <v t="123.20160107143548.4" a="E"><vh>body 標註</vh>
@@ -466,7 +466,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104200435.1" a="E"><vh>@clean cadp_w15_simplest.html</vh>
+<v t="leo.20160104200435.1"><vh>@clean 40323154_cp_w15_p.html</vh>
 <v t="leo.20160104200435.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104200435.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104200435.4" a="E"><vh>body 標註</vh>
@@ -487,7 +487,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104200415.1"><vh>@clean cadp_w16_simplest.html</vh>
+<v t="leo.20160104200415.1"><vh>@clean 40323154_cp_w16_p.html</vh>
 <v t="leo.20160104200415.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104200415.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104200415.4" a="E"><vh>body 標註</vh>
@@ -508,7 +508,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160107143607.1"><vh>@clean cadp_w17_simplest.html</vh>
+<v t="123.20160107143607.1"><vh>@clean 40323154_cp_w17_p.html</vh>
 <v t="123.20160107143607.2"><vh>檔案說明</vh></v>
 <v t="123.20160107143607.3" a="E"><vh>html 標註</vh>
 <v t="123.20160107143607.4" a="E"><vh>body 標註</vh>
